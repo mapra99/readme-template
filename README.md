@@ -39,21 +39,15 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+**Miguel Prada**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Github: [@mapra99](https://github.com/mapra99)
+- Twitter: [@MiguelPrada1](https://twitter.com/MiguelPrada1)
+- Linkedin: [mprada](https://linkedin.com/in/mprada)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -61,14 +55,12 @@ Feel free to check the [issues page](issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a star if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- devchallenges.io for their amazing designs and its community!
 
-## 📝 License
+## License
 
 This project is [MIT](lic.url) licensed.
